@@ -12,7 +12,8 @@
 			"ProductSugars" : "0g",
 			"ProductCaffine" : "250mg",
 			"ProductWarning" : "This product is only intended for healthy adults, 18 years or older. Do not exceed recommendations for suggested",
-			"ProductPageSite" : "https://www.ghostlifestyle.com/products/ghost-legend-x-sour-patch-kids?variant=38210859270321"
+			"ProductPageSite" : "https://www.ghostlifestyle.com/products/ghost-legend-x-sour-patch-kids?variant=38210859270321",
+			"ProductSearch" : "Supplement Store"
 		},
 		{
 			"ProductName" : "Ghost Energy Orange Cream",
@@ -25,7 +26,8 @@
 			"ProductSugars" : "0g",
 			"ProductCaffine" : "200mg",
 			"ProductWarning" : "This product is only intended for healthy adults, 18 years or older.",
-			"ProductPageSite" : "https://www.amazon.com/dp/B09YGDKGDW/ref=sr_1_2?ie=UTF8&keywords=Energy%2BDrink&qid=1674841007&s=gateway&sr=8-2&maas=maas_adg_B09063A41F8E67AEE1D38302118FF856_afap_abs&th=1"
+			"ProductPageSite" : "https://www.amazon.com/dp/B09YGDKGDW/ref=sr_1_2?ie=UTF8&keywords=Energy%2BDrink&qid=1674841007&s=gateway&sr=8-2&maas=maas_adg_B09063A41F8E67AEE1D38302118FF856_afap_abs&th=1",
+			"ProductSearch" : "Gas Station + Supplement Store"
 		},
 		{
 			"ProductName" : "Ghost Energy Sour Apple",
@@ -38,7 +40,8 @@
 			"ProductSugars" : "0g",
 			"ProductCaffine" : "200mg",
 			"ProductWarning" : "This product is only intended for healthy adults, 18 years or older.",
-			"ProductPageSite" : "https://www.amazon.com/dp/B0BHKR7Z4L/ref=sr_1_2?ie=UTF8&keywords=Energy%2BDrink&qid=1674841007&s=gateway&sr=8-2&maas=maas_adg_B09063A41F8E67AEE1D38302118FF856_afap_abs&th=1"
+			"ProductPageSite" : "https://www.amazon.com/dp/B0BHKR7Z4L/ref=sr_1_2?ie=UTF8&keywords=Energy%2BDrink&qid=1674841007&s=gateway&sr=8-2&maas=maas_adg_B09063A41F8E67AEE1D38302118FF856_afap_abs&th=1",
+			"ProductSearch" : "Gas Station + Supplement Store"
 		},
 		{
 			"ProductName" : "Ghost Energy Hydration Blue Raspberry",
@@ -51,7 +54,51 @@
 			"ProductSugars" : "0g",
 			"ProductCaffine" : "No Caffine",
 			"ProductWarning" : "This product is only intended for healthy adults, 18 years or older.",
-			"ProductPageSite" : "https://www.ghostlifestyle.com/products/ghost-hydration-sticks?variant=41763660464305"
-		}
+			"ProductPageSite" : "https://www.ghostlifestyle.com/products/ghost-hydration-sticks?variant=41763660464305",
+			"ProductSearch" : "Supplement Store"
+		},
+		{
+			"ProductName" : "Ghost Energy Sour Watermelon",
+			"ProductImage" : "https://raw.githubusercontent.com/HashZylos/IT315P2/main/can-warheads.png",
+			"ProductDescrption" : "GHOST® HYDRATION STICKS are here to take your water to the next level. Anytime. Anywhere.",
+			"ProductCal" : "0 Calories",
+			"ProductServings" : "1 Servings",
+			"ProductProtein" : "0g",
+			"ProductSodium" : "35g",
+			"ProductSugars" : "0g",
+			"ProductCaffine" : "200mg",
+			"ProductWarning" : "This product is only intended for healthy adults, 18 years or older.",
+			"ProductPageSite" : "https://www.amazon.com/dp/B08MW9LXK7/ref=sr_1_2?ie=UTF8&keywords=Energy%2BDrink&qid=1674841007&s=gateway&sr=8-2&maas=maas_adg_B09063A41F8E67AEE1D38302118FF856_afap_abs&th=1",
+			"ProductSearch" : "Gas Station + Supplement Store"
+		},
+		{
+			"ProductName" : "C4 Energy X Skittles",
+			"ProductImage" : "https://raw.githubusercontent.com/HashZylos/IT315P2/main/c4-energy-skittles-16oz.png",
+			"ProductDescrption" : "GHOST® HYDRATION STICKS are here to take your water to the next level. Anytime. Anywhere.",
+			"ProductCal" : "0 Calories",
+			"ProductServings" : "1 Servings",
+			"ProductProtein" : "0g",
+			"ProductSodium" : "0g",
+			"ProductSugars" : "0g",
+			"ProductCaffine" : "200mg",
+			"ProductWarning" : "Do not consume this product if you are pregnant or nursing. Not intended for children. Recommended for adults. Store in a cool, dry place. Do not freeze.",
+			"ProductPageSite" : "https://cellucor.com/products/c4-energy-x-skittles",
+			"ProductSearch" : "Gas Station + Supplement Store"
+		},
+		{
+			"ProductName" : "Gfuel Energy Blue Ice",
+			"ProductImage" : "https://raw.githubusercontent.com/HashZylos/IT315P2/main/Gfuel-Blueice.png",
+			"ProductDescrption" : "As one of the three OG G FUEL flavors, Blue Ice, much like fine wine, has only gotten better with age! This flavor tastes reminiscent of those blue slushie drinks you’d grab at the corner store – Simply delicious!",
+			"ProductCal" : "15 Calories",
+			"ProductServings" : "35 Servings",
+			"ProductProtein" : "0g",
+			"ProductSodium" : "0g",
+			"ProductSugars" : "0g",
+			"ProductCaffine" : "140mg",
+			"ProductWarning" : "Consuming this product can expose you to chemicals including lead, which is known to the State of California to cause birth defects or other reproductive harm.",
+			"ProductPageSite" : "https://gfuel.com/collections/tubs/products/g-fuel-tub-blue-ice",
+			"ProductSearch" : "Supplement Store"
+		},
+		
 	]
 }
