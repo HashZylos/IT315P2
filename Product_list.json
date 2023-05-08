@@ -1,0 +1,57 @@
+{
+	"Products":
+	[
+		{
+			"ProductName" : "Ghost Energy Legend Redberry",
+			"ProductImage" : "https://raw.githubusercontent.com/HashZylos/IT315P2/main/LegendV2RB.png",
+			"ProductDescrption" : "GHOST LEGEND® V2 and your favorite SOUR PATCH KIDS® flavors. Life. Made",
+			"ProductCal" : "0 Calories",
+			"ProductServings" : "25 Servings",
+			"ProductProtein" : "0g",
+			"ProductSodium" : "0g",
+			"ProductSugars" : "0g",
+			"ProductCaffine" : "250mg",
+			"ProductWarning" : "This product is only intended for healthy adults, 18 years or older. Do not exceed recommendations for suggested",
+			"ProductPageSite" : "https://www.ghostlifestyle.com/products/ghost-legend-x-sour-patch-kids?variant=38210859270321"
+		},
+		{
+			"ProductName" : "Ghost Energy Orange Cream",
+			"ProductImage" : "https://raw.githubusercontent.com/HashZylos/IT315P2/main/can-orange-cream.png",
+			"ProductDescrption" : "Combining 200mg of natural caffeine with brain-boosting nootropic to deliver the perfect combo of energy and focus.",
+			"ProductCal" : "10 Calories",
+			"ProductServings" : "1 Serving",
+			"ProductProtein" : "0g",
+			"ProductSodium" : "30g",
+			"ProductSugars" : "0g",
+			"ProductCaffine" : "200mg",
+			"ProductWarning" : "This product is only intended for healthy adults, 18 years or older.",
+			"ProductPageSite" : "https://www.amazon.com/dp/B09YGDKGDW/ref=sr_1_2?ie=UTF8&keywords=Energy%2BDrink&qid=1674841007&s=gateway&sr=8-2&maas=maas_adg_B09063A41F8E67AEE1D38302118FF856_afap_abs&th=1"
+		},
+		{
+			"ProductName" : "Ghost Energy Sour Apple",
+			"ProductImage" : "https://raw.githubusercontent.com/HashZylos/IT315P2/main/can-sga.png",
+			"ProductDescrption" : "Combining 200mg of natural caffeine with brain-boosting nootropic to deliver the perfect combo of energy and focus.",
+			"ProductCal" : "0 Calories",
+			"ProductServings" : "1 Servings",
+			"ProductProtein" : "0g",
+			"ProductSodium" : "35g",
+			"ProductSugars" : "0g",
+			"ProductCaffine" : "200mg",
+			"ProductWarning" : "This product is only intended for healthy adults, 18 years or older.",
+			"ProductPageSite" : "https://www.amazon.com/dp/B0BHKR7Z4L/ref=sr_1_2?ie=UTF8&keywords=Energy%2BDrink&qid=1674841007&s=gateway&sr=8-2&maas=maas_adg_B09063A41F8E67AEE1D38302118FF856_afap_abs&th=1"
+		},
+		{
+			"ProductName" : "Ghost Energy Hydration Blue Raspberry",
+			"ProductImage" : "https://raw.githubusercontent.com/HashZylos/IT315P2/main/BlueRaspberryHydration.png",
+			"ProductDescrption" : "GHOST® HYDRATION STICKS are here to take your water to the next level. Anytime. Anywhere.",
+			"ProductCal" : "5 Calories",
+			"ProductServings" : "24 Servings",
+			"ProductProtein" : "0g",
+			"ProductSodium" : "35g",
+			"ProductSugars" : "0g",
+			"ProductCaffine" : "No Caffine",
+			"ProductWarning" : "This product is only intended for healthy adults, 18 years or older.",
+			"ProductPageSite" : "https://www.ghostlifestyle.com/products/ghost-hydration-sticks?variant=41763660464305"
+		}
+	]
+}
